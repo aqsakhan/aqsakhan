@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aqsakhan
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java Programming, Data Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java Programming, Web Development
+- 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/aqsa-khan-12b4751a2/
 
 <!---
