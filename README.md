@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/aqsa-khan-12b4751a2/" target="_blank"> Aqsa Khan </a></h1>
+<h1 align="center">Hey There, I'm <a href="https://www.linkedin.com/in/aqsa-khan-12b4751a2/" target="_blank"> Aqsa Khan </a></h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
 - 🌱 I’m currently learning **Javascript & React**
