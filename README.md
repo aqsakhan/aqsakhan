@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Python, Web Development**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://aqsakhan.github.io/portfolio-website/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://aqsakhan.is-a.dev/" target="_blank">Portfolio</a>**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -34,20 +34,20 @@
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<!-- <h3 align="left">Databases :</h3>
+<h3 align="left">Databases :</h3>
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div> -->
+<!--   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/> -->
+</div>
 
 
-<!-- <h3 align="left">Hosting :</h3>
+<h3 align="left">Hosting :</h3>
 <div align="left">
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%230167ff.svg?style=for-the-badge&logo=vercel&logoColor=black"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</div><br/> -->
+</div><br/>
 
 <br>
 
