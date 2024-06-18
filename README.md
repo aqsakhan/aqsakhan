@@ -1,11 +1,11 @@
 <h1 align="center">Hey There, I'm <a href="https://www.linkedin.com/in/aqsa-khan-12b4751a2/" target="_blank"> Aqsa Khan </a></h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">FrontEnd Developer</h3>
 
 - 🌱 I’m currently learning **Web Development Best Practices**
 
-- 👀 I’m interested in Web Development and App Development
+- 👀 I’m interested in FrontEnd Development
 
-- 💬 Ask me about **Java, Python, Web Development**
+- 💬 Ask me about **Java, Javascript, FrontEnd Frameworks**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://aqsakhan.is-a.dev/" target="_blank">Portfolio</a>**
 
